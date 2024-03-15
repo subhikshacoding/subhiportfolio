@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/subhiportfolio/static/css/main.995cc135.css",
+    "main.js": "/subhiportfolio/static/js/main.cd405819.js",
+    "static/js/453.68693753.chunk.js": "/subhiportfolio/static/js/453.68693753.chunk.js",
+    "index.html": "/subhiportfolio/index.html",
+    "main.995cc135.css.map": "/subhiportfolio/static/css/main.995cc135.css.map",
+    "main.cd405819.js.map": "/subhiportfolio/static/js/main.cd405819.js.map",
+    "453.68693753.chunk.js.map": "/subhiportfolio/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995cc135.css",
+    "static/js/main.cd405819.js"
+  ]
+}
